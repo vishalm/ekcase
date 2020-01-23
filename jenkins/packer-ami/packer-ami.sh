@@ -1,7 +1,5 @@
 #!/bin/bash
 
-cd packer-ami
-
 # Create jenkins ami
 cd jenkins
 cd master
