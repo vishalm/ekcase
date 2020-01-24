@@ -6,9 +6,9 @@
     * [x] Three ami's created jenkins, slave, grafana prometheus
   * [x] Create jenkins instance with monitoring
     * [x] create s3 vpc
-    * [ ] create jenkins, slave, monitoring.   
+    * [x] create jenkins, slave, monitoring.   
 * [x] Create Terraform for Jenkins Provisioing
-* [ ] Create automated kubernetes Cluster and create 2 automated env.
+* [ ] Create dev test env with terraform for 2 automated env.
 * [ ] Automate the Deployment to test and stage env
 
 
